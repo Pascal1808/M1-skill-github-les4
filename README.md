@@ -13,4 +13,4 @@ dit is **dikgedrukt**
 
 ```dinsdag```
 
-<img src="">
+<img src="image.png">
