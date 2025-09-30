@@ -31,6 +31,7 @@ dit is **dikgedrukt**
 
 1. item1
    1. sub-item1
-2. 
+2. item2
+3. item3
 
 ***
